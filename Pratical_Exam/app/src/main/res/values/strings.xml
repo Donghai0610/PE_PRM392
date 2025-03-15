@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pratical_Exam</string>
+    <string-array name="furniture_type">
+        <item>Sofa</item>
+        <item>Chair</item>
+        <item>Table</item>
+    </string-array>
+</resources>
